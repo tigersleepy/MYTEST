@@ -1,3 +1,12 @@
 from django.shortcuts import render
 
-# Create your views here.
+def like(request):
+    pass
+
+
+def app(request):
+    pass
+
+
+def mmm(request):
+    pass 
